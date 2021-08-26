@@ -26,6 +26,7 @@ while n != 0:
   elif n==2:
     explicacao()
   elif n==0:
+    print("Obrigado por jogar")
     break
   else:
       print("\nOpção invalido")
